@@ -1,4 +1,4 @@
-/** ORDER OF FUNCTIONSS
+/** ORDER OF FUNCTION
  * Get_URL_Parameter(parameter_name)
  * Set_Default_BaseMap()
  * Set_Default_Extent()
@@ -42,4 +42,3 @@
 
 /*Call all functions*/
 dojo.addOnLoad(Initialize);
-
