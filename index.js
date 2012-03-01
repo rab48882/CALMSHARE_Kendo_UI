@@ -1,4 +1,4 @@
-/** ORDER OF FUNCTIONS
+/** ORDER OF FUNCTIONSS
  * Get_URL_Parameter(parameter_name)
  * Set_Default_BaseMap()
  * Set_Default_Extent()
